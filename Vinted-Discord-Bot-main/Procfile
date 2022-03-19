@@ -1,0 +1,2 @@
+web: python vinted.py
+worker: python vinted.py 
